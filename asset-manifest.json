@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2511a81f.css",
+    "main.js": "/portfolio/static/js/main.a1a2d33f.js",
+    "static/media/phoenix_bird.glb": "/portfolio/static/media/phoenix_bird.2d9d116d6b6ae8ec2e5f.glb",
+    "static/media/cloud1.png": "/portfolio/static/media/cloud1.8753440457afd3d57b85.png",
+    "static/media/cloud2.png": "/portfolio/static/media/cloud2.fc3386210d5651a7371e.png",
+    "static/media/clouds-2.png": "/portfolio/static/media/clouds-2.3426c757bf143d2ba8e3.png",
+    "static/media/clouds-1.png": "/portfolio/static/media/clouds-1.f304ef01618d00b36a04.png",
+    "static/media/clouds-3.png": "/portfolio/static/media/clouds-3.4c71b8ad453ca0331a61.png",
+    "static/media/grass1.png": "/portfolio/static/media/grass1.ab20f1ca836fd6001a34.png",
+    "static/media/grass2.png": "/portfolio/static/media/grass2.1db98c5d0d4e04018cc1.png",
+    "static/media/react-ghost.svg": "/portfolio/static/media/react-ghost.cbf1b6a9072249b817a0aade7d4e9d85.svg",
+    "static/media/potion.svg": "/portfolio/static/media/potion.aaff4bf1a758b06793110e93cb5890ba.svg",
+    "static/media/astronaut.svg": "/portfolio/static/media/astronaut.2700ac2fb2f9dddb87f3b006051627db.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/coffeeMug.svg": "/portfolio/static/media/coffeeMug.fae9dc43dd9f59399d29c8f95ab60fa8.svg",
+    "main.2511a81f.css.map": "/portfolio/static/css/main.2511a81f.css.map",
+    "main.a1a2d33f.js.map": "/portfolio/static/js/main.a1a2d33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2511a81f.css",
+    "static/js/main.a1a2d33f.js"
+  ]
+}
