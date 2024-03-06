@@ -1,9 +1,7 @@
-import { useRoutes } from "react-router-dom";
-import routes from "./routes";
+import { HomePage } from "./pages/home.pages";
 
 function App() {
-  const content = useRoutes(routes);
-  return content;
+  return <HomePage />;
 }
 
 export default App;
